@@ -1,5 +1,3 @@
-![Screenshot 2024-08-27 104941](https://github.com/user-attachments/assets/2d127674-9c4e-40ab-9060-13a5ef1a68dd)# widget2
-
 A new Flutter project.
 
 ## Getting Started
